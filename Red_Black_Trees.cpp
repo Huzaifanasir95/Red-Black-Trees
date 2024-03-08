@@ -1,5 +1,4 @@
 //Name: Huzaifa Nasir
-
 //Section: A
 #pragma once
 #include<iostream>
