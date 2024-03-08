@@ -1,5 +1,5 @@
 //Name: Huzaifa Nasir
-//Roll No: 22I-1053
+
 //Section: A
 #pragma once
 #include<iostream>
